@@ -1,3 +1,4 @@
+#Задача: найти годных к службе студентов
 def get_inductees(names_of_student: list, birthday_years_of_student: list, genders_of_students: list) -> list:
     corrupted_data = []
     going_to_army_soon = []
